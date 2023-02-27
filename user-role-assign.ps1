@@ -1,0 +1,1 @@
+ az role assignment create --assignee "developer@pramodnaiklive.onmicrosoft.com" --role contributor --scope "subscriptions/9527ff71-b027-4c3a-bece-db7852c5eed1/resourceGroups/rg-learnings"
